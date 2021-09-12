@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 Download or fork the ropository and clone into your local directory. Then run `npm install` to install the dependencies.
-Run on the project on local with `npm run dev` command.
+Run this on localhost  with `npm run dev` command.
 
 ## Demo Link
 
