@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Tailwind.css
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 and Tailwind.css for styling. I has diplay users fetching from rest api and showing user's post through dyanmic routing.
 
 ## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Download or fork the ropository and clone into your local directory. Then run `npm install` to install the dependencies.
+Run on the project on local with `npm run dev` command.
+
+## Demo Link
+
+Find the working demo link below
+
+[https://rohithp37.github.io/first-vue-app/](https://rohithp37.github.io/first-vue-app/)
